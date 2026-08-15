@@ -18,7 +18,7 @@ import google.generativeai as genai
 # CONFIG
 # ==========================================================
 
-API_URL = "API_URL = "https://heart-disease-predictor-4916.onrender.com""
+API_URL = "API_URL = "https://heart-disease-predictor-4916.onrender.com"
 
 # Gemini API Key
 GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
